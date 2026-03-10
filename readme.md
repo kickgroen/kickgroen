@@ -2,7 +2,7 @@
 
 <h3 align="left">Hey! I'm Kick!</h3>
 
-<p align="left">I'm 17 and I'm currently in my 2nd year of my Software Developer education!<br><br>I'm currently working on my Cyber Security assignments!<br><br>I"m currently learning C# and XML<br><br>How to reach me : misterkick@ziggo.nl<br><br>Fun fact: The first programming language I used what Luau!</p>
+<p align="left">I'm 17 and I'm currently in my 2nd year of my Software Developer education!<br><br>I'm currently working on my Cyber Security assignments!<br><br>I'm currently learning C# and XML<br><br>How to reach me : misterkick@ziggo.nl<br><br>Fun fact: The first programming language I used what Luau!</p>
 
 <p align="left">Languages I work with</p>
 
