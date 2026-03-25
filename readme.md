@@ -2,7 +2,7 @@
 
 <h3 align="left">Hey! I'm Kick!</h3>
 
-<p align="left">I'm 17 and I'm currently in my 2nd year of my Software Developer education!<br><br>I'm currently working on my Cyber Security assignments!<br><br>I'm currently learning C# and XML<br><br>How to reach me : misterkick@ziggo.nl<br><br>Fun fact: The first programming language I used what Luau!</p>
+<p align="left">I'm 17 and I'm currently in my 2nd year of my Software Developer education!<br><br>I'm currently working on my Mobile Development assignments!<br><br>I'm currently learning C# and XML<br><br>How to reach me : misterkick@ziggo.nl<br><br>Fun fact: The first programming language I used what Luau!</p>
 
 <p align="left">Languages I work with</p>
 
@@ -34,7 +34,7 @@
 
 <h3 align="left">Hoi! Ik ben Kick!</h3>
 
-<p align="left">Ik ben 17 jaar oud en zit momenteel in mijn 2e jaar van de opleiding Software Developer!<br><br>Op dit moment werk ik aan mijn Cyber Security-opdrachten.<br><br>Ik leer momenteel C# en XML.<br><br>Hoe je me kunt bereiken: misterkick@ziggo.nl<br><br>Leuk weetje: De eerste programmeertaal die ik gebruikte was Luau!</p>
+<p align="left">Ik ben 17 jaar oud en zit momenteel in mijn 2e jaar van de opleiding Software Developer!<br><br>Op dit moment werk ik aan mijn Mobile Development-opdrachten.<br><br>Ik leer momenteel C# en XML.<br><br>Hoe je me kunt bereiken: misterkick@ziggo.nl<br><br>Leuk weetje: De eerste programmeertaal die ik gebruikte was Luau!</p>
 
 <p align="left">Programmeertalen die ik gebruik</p>
 
